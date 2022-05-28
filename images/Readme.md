@@ -11,13 +11,13 @@ Here there are reported two histograms about ```Close Market Value - Dalily```, 
 ### Close Market value of BTC / USD
 
 <p align="center">
-    <img src="close_market_value_btc_usd.png">
+    <img src="\close_market_value_btc_usd.png">
 </p>
 
 ### Close Market value of XRP / USD
 
 <p align="center">
-    <img src="close_market_value_xrp_usd.png">
+    <img src="\close_market_value_xrp_usd.png">
 </p>
 
 
